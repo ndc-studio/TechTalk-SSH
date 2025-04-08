@@ -11,9 +11,7 @@
 
 # Structure
 ```
-https://github.com/ndc-studio/TechTalk-SSH/
-        |
+TechTalk-SSH/
         ├─ README.md
-        └─ TechTalk-SSH.pdf
-        
+        └─ TechTalk-SSH.pdf    
 ```
